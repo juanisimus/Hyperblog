@@ -1,5 +1,4 @@
-# Hyperblog
-Un blog increible para el curso de Git y Github de platzi
+
 # Hyperblog
 Un blog increible para el curso de Git y Github de platzi
 >Por ahora mi imagen de avatar es un simple Rick pero conforme vaya dominando estos conocimientos en el momento que me sienta contento con lo que se cambiare a regular Rick.
