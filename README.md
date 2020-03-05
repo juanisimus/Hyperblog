@@ -11,3 +11,4 @@ Pd. Vean Rick and Morty, un excelente show de ciencia ficcion.
 
 chinguen a su madre todos
 incluye ejemplos en linux
+para que todos chinguemos igual
