@@ -4,5 +4,5 @@ Daniel es Ingeniero Mecanico de la UASLP
 
 tomorrow we talk about working life
 
-master 1
-master 2
+experimento1
+master 1master 2
